@@ -1,72 +1,76 @@
 # NeetCode Solutions — @khawarrustam
 
-> Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
+> My coding interview preparation journey | Data Structures & Algorithms | Problem Solving
+
+Welcome to my NeetCode solutions repository! This repository contains my coding practice, problem-solving approaches, and solutions synced from [NeetCode.io](https://neetcode.io).
+
+## 👨‍💻 About Me
+
+I'm **Rana Khawar Ali**, a Computer Science graduate from the University of Lahore, passionate about software engineering, backend development, and problem-solving.
+
+I'm continuously improving my understanding of Data Structures & Algorithms (DSA) and preparing for software engineering interviews through consistent coding practice.
+
+**My current focus:**
+
+* Solving DSA problems using C++.
+* Understanding different approaches instead of memorizing solutions.
+* Improving time and space complexity analysis.
+* Building strong problem-solving skills for technical interviews.
+* Maintaining a consistent coding practice routine.
+
+## 🎯 My Learning Goals
+
+My goal is to become a stronger software engineer by developing a solid understanding of fundamental computer science concepts.
+
+| Area                  | Focus                                                  |
+| --------------------- | ------------------------------------------------------ |
+| Programming           | C++ and Python                                         |
+| Data Structures       | Arrays, Hash Maps, Stacks, Queues, Linked Lists, Trees |
+| Algorithms            | Two Pointers, Binary Search, Sliding Window, Recursion |
+| Advanced Topics       | Graphs, Dynamic Programming, Backtracking              |
+| Interview Preparation | Problem-solving, optimization, complexity analysis     |
+
+## 🧩 My Problem-Solving Journey
+
+For every problem, I aim to understand:
+
+1. What is the problem asking?
+2. What is the simplest possible solution?
+3. Can I optimize the solution?
+4. What are its time and space complexities?
+5. Can I explain my approach clearly in a technical interview?
+
+## 🔄 GitHub Sync
+
+My solutions are synced from NeetCode to GitHub using its built-in GitHub integration.
+
+Depending on my configured settings, the integration supports:
+
+* Automatic commits for new submissions.
+* Synchronization of accepted solutions.
+* Bulk synchronization of previous submissions.
+* Manual synchronization of individual submissions.
+
+This helps me keep a record of my coding progress.
+
+## 🚀 My Approach to Continuous Improvement
+
+I aim to practice consistently, explore different solutions, and review concepts that I find challenging.
+
+My focus is not simply on the number of problems solved, but on developing the ability to recognize patterns, write clean code, and explain solutions confidently.
+
+**Consistency over memorization. Understanding over shortcuts.**
+
+## 🔗 Connect With Me
+
+**GitHub:** [@khawarrustam](https://github.com/khawarrustam)
+
+**NeetCode:** [neetcode.io](https://neetcode.io)
+
+**Email:** [rajputkhawarali@gmail.com](mailto:rajputkhawarali@gmail.com)
 
 ---
 
-## What is this?
+*This repository is part of my ongoing software engineering and technical interview preparation journey.*
 
-[NeetCode.io](https://neetcode.io) is a coding interview preparation platform featuring curated problems, video solutions, and an in-browser code editor. This repository is automatically populated with your accepted (or all) solutions using the **GitHub Sync** feature.
-
----
-
-## How GitHub Sync works
-
-1. **Connect your GitHub account** on [neetcode.io/profile/github](https://neetcode.io/profile/github).
-2. **Auto-commit** — every time you submit a solution on NeetCode, it is pushed here automatically (configurable by status).
-3. **Bulk Sync** — push all your past solutions at once from the GitHub settings page.
-4. **Manual sync** — from the submission history panel on any problem page, sync or remove individual submissions.
-
----
-
-## Repository structure
-
-Solutions are organized by topic folder, then problem ID. Each submission is stored as a separate file:
-
-```
-<topic-folder>/
-  <problem-id>/
-    submission-0.<ext>   ← first submission
-    submission-1.<ext>   ← second submission
-    ...
-```
-
-**Example:**
-```
-Data Structures & Algorithms/two-integer-sum/submission-0.py
-Data Structures & Algorithms/binary-search/submission-0.ts
-Python For Beginners/python-hello-world/submission-0.py
-```
-
----
-
-## Supported languages
-
-| Language | Extension |
-|---|---|
-| Python | `.py` |
-| JavaScript | `.js` |
-| TypeScript | `.ts` |
-| Java | `.java` |
-| C++ | `.cpp` |
-| C# | `.cs` |
-| Go | `.go` |
-| Rust | `.rs` |
-| Kotlin | `.kt` |
-| Swift | `.swift` |
-| SQL | `.sql` |
-
----
-
-## Settings
-
-Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io/profile/github):
-
-- **Auto-commit toggle** — enable or disable automatic commits on submission
-- **Status filter** — sync all submissions or accepted only
-- **Rename repository** — rename this repo or start fresh with a new one
-- **Bulk Sync** — push all past solutions at once (rate-limited)
-
----
-
-*Generated by [NeetCode GitHub Integration](https://neetcode.io)*
+*Solutions are synced using [NeetCode GitHub Integration](https://neetcode.io).*
